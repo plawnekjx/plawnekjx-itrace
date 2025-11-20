@@ -1,9 +1,9 @@
 {
-  "name": "frida-itrace",
-  "description": "Instruction tracer powered by Frida",
+  "name": "plawnekjx-itrace",
+  "description": "Instruction tracer powered by Plawnekjx",
   "version": "4.0.1",
   "keywords": [
-    "frida-gum"
+    "plawnekjx-gum"
   ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -19,13 +19,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frida/frida-itrace.git"
+    "url": "git+https://github.com/plawnekjx/plawnekjx-itrace.git"
   },
   "authors": [
-    "Frida Developers"
+    "Plawnekjx Developers"
   ],
   "devDependencies": {
-    "@types/frida-gum": "^19.0.0",
+    "@types/plawnekjx-gum": "^19.0.0",
     "@types/node": "^18.19.111",
     "typescript": "^5.8.3"
   },

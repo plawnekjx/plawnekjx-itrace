@@ -1,6 +1,6 @@
-# frida-itrace
+# plawnekjx-itrace
 
-Instruction tracer powered by Frida.
+Instruction tracer powered by Plawnekjx.
 
 ## Example
 
@@ -10,7 +10,7 @@ import {
     TraceBufferReader,
     TraceSession,
     TraceStrategy,
-} from "frida-itrace";
+} from "plawnekjx-itrace";
 
 const strategy: TraceStrategy = {
     type: "thread",
